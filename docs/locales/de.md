@@ -6,20 +6,20 @@
 
 ---
 
-### System- und Sicherheits-Softwareingenieur
+### Leitender System- und Sicherheits-Softwareingenieur
 
 Seoul, Südkorea | Independent Systems Lab
 
-Spezialisiert auf hardwarenahe Laufzeitarchitekturen, deterministische Verifikationssysteme, werkzeugeffiziente Zero-Overhead-Entwicklung und native Sicherheitsaudits. Entwicklung robuster Grundlagen mit Fokus auf Vorhersehbarkeit, mechanische Sympathie und Verifikationsintegrität.
+Spezialisiert auf hardwarenahe Laufzeitarchitekturen, hochperformante Nebenläufigkeit, Speichersicherheit und robuste Systemarchitekturen. Entwicklung von produktionsreifen Softwarekomponenten mit Fokus auf Vorhersehbarkeit, mechanische Sympathie und höchste Codequalität.
 
 ---
 
 ### Technische Kernprinzipien
 
 - **Deterministische Korrektheit**: Vermeidung von undefiniertem Verhalten und Speicherfehlern durch strikte Typsysteme und reproduzierbare Testsuiten.
-- **Nullkostenabstraktionen**: Maximale Laufzeiteffizienz durch Compileroptimierungen und direkte Speicherlayouts.
-- **Minimale Angriffsfläche**: Isolierte Sicherheitsgrenzen und striktes Zero-Trust-Prinzip über alle Prozesse und Speicherbereiche hinweg.
-- **Orthodoxe Handwerkskunst**: Wartbarer, auditierbarer Code ohne fragile oder unnötige Abhängigkeiten.
+- **Leistung & Mechanische Sympathie**: Cache-freundliche Datenstrukturen und Nullkostenabstraktionen zur optimalen Ausnutzung moderner Hardware.
+- **Tiefenstaffelung (Defense in Depth)**: Prinzip der geringsten Rechte und klare Vertrauensgrenzen über alle Systemschichten hinweg.
+- **Pragmatisches Handwerk**: Wartbarer, auditierbarer und klar verständlicher Code ohne unnötige externe Abhängigkeiten.
 
 ---
 

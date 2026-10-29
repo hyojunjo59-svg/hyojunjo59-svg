@@ -6,20 +6,20 @@
 
 ---
 
-### Ingénieur Logiciel Systèmes et Sécurité
+### Ingénieur Logiciel Senior Systèmes et Sécurité
 
 Séoul, Corée du Sud | Independent Systems Lab
 
-Spécialisé dans l'architecture de moteurs d'exécution bas niveau, les systèmes de vérification déterministes, l'outillage à coût nul et l'audit de sécurité natif. Conception de fondations résilientes exigeant prévisibilité, efficience matérielle et intégrité de vérification.
+Spécialisé dans l'architecture de moteurs d'exécution bas niveau, la concurrence haute performance, la sûreté mémoire et la conception de systèmes résilients. Conception de composants logiciels prêts pour la production, axés sur la prévisibilité, l'efficience matérielle et la rigueur du code.
 
 ---
 
 ### Principes d'Ingénierie
 
-- **Exactitude Déterministe**: Élimination des comportements indéfinis et des failles mémoire via des systèmes de typage stricts et des tests reproductibles.
-- **Abstractions à Coût Nul**: Maximisation des performances d'exécution grâce aux optimisations du compilateur et à l'agencement mémoire direct.
-- **Surface d'Attaque Minimale**: Frontières de sécurité isolées, moindre privilège et architecture zéro-confiance.
-- **Rigueur d'Ingénierie**: Code clair, maintenable et entièrement auditable, sans dépendances superflues.
+- **Exactitude Déterministe**: Élimination des comportements indéfinis et des failles mémoire grâce à des systèmes de types stricts et des suites de tests rigoureuses.
+- **Performance et Sympathie Mécanique**: Structures de données optimisées pour le cache et abstractions à coût nul exploitant pleinement les architectures matérielles actuelles.
+- **Défense en Profondeur**: Moindre privilège et délimitation stricte des frontières de confiance sur les couches processus, mémoire et réseau.
+- **Pragmatisme et Clarté**: Code clair, maintenable et entièrement auditable, sans dépendances inutiles ni complexité superflue.
 
 ---
 

@@ -6,20 +6,20 @@
 
 ---
 
-### Ingeniero de Software de Sistemas y Seguridad
+### Ingeniero de Software Sénior de Sistemas y Seguridad
 
 Seúl, Corea del Sur | Independent Systems Lab
 
-Especializado en arquitecturas de tiempo de ejecución de bajo nivel, sistemas de verificación determinista, herramientas de cero sobrecarga y auditoría de seguridad nativa. Construcción de componentes de alta resiliencia donde la predictibilidad y la verificación formal son indispensables.
+Especializado en arquitecturas de tiempo de ejecución de bajo nivel, concurrencia de alto rendimiento, seguridad de memoria y diseño de sistemas robustos. Construcción de software de grado de producción donde la predictibilidad, la afinidad de hardware y el código limpio son fundamentales.
 
 ---
 
 ### Principios Fundamentales de Ingeniería
 
-- **Exactitud Determinista**: Erradicación de comportamientos indefinidos y vulnerabilidades de memoria mediante sistemas de tipos estrictos y pruebas reproducibles.
-- **Abstracciones de Costo Cero**: Eficiencia máxima de ejecución aprovechando optimizaciones del compilador y diseños de memoria directos.
-- **Superficie de Ataque Mínima**: Límites de seguridad aislados, mínimo privilegio y verificación de confianza cero.
-- **Artesanía Ortodoxa**: Código claro, mantenible y auditable, rechazando dependencias innecesarias.
+- **Exactitud Determinista**: Erradicación de comportamientos indefinidos y condiciones de carrera mediante sistemas de tipos estrictos y pruebas exhaustivas.
+- **Rendimiento y Afinidad Mecánica**: Estructuras de datos optimizadas para caché y abstracciones de costo cero que aprovechan al máximo el hardware moderno.
+- **Defensa en Profundidad**: Aplicación rigurosa del principio de mínimo privilegio y límites de confianza claros en capas de proceso, memoria y red.
+- **Artesanía Pragmática**: Código limpio, legible y meticulosamente auditado, rechazando dependencias innecesarias y complejidad superflua.
 
 ---
 
